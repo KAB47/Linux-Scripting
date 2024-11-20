@@ -16,11 +16,3 @@ This repository contains a set of Linux shell scripts designed to demonstrate ba
    A script that sources data from a table and manipulates it for various tasks.
 
 ---
-
-## How to Use
-
-1. **Clone the Repository**  
-   First, clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/linux-script-exercises.git
-   cd linux-script-exercises
